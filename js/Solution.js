@@ -23,5 +23,12 @@ console.log(Result) ;
 const Names = "Денис";
       family = "Антонов";
       proffesion = "Веб Разработчик";
+const Resume2 = `Меня зовут ${Names} ${family} и я ${proffesion}`;      
 const Resume = "Меня зовут" + " " + Names + " " + family + " "+ "и я" +" " + proffesion;
-console.log(Resume);
+console.log(Resume2);
+
+
+//Solve 5 task
+/* const lorem = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit harum at excepturi. Praesentium quo, sit vitae autem quis eos est, velit, enim quia placeat soluta consequatur tempore ullam blanditiis incidunt!";
+const lorem2 = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit harum at excepturi. Praesentium quo, sit vitae autem quis eos est, velit, enim quia placeat soluta consequatur tempore ullam blanditiis incidunt!";
+const lorem3 = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit harum at excepturi. Praesentium quo, sit vitae autem quis eos est, velit, enim quia placeat soluta consequatur tempore ullam blanditiis incidunt!"; */
