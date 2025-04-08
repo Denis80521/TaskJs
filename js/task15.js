@@ -1,3 +1,4 @@
-let hello = "Good Morning";
-hello = "Good evening";
-console.log(hello);
+let morning = "Good Morning";
+let evening = morning.replace("Morning","Evening");
+
+console.log(evening);

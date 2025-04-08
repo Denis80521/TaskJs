@@ -1,5 +1,4 @@
-const nameS = "Denis"
-function showName() {
-    console.log('Привет',nameS);
+const print = function (name) {
+    console.log('Привет',name);
 }
-showName();
+print("denis");

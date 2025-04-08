@@ -1,2 +1,4 @@
-const hello = () => "Привет, мир"
-console.log(hello());
+const hello = (p) => `Привет, ${p}`
+console.log(hello("мир"));
+
+
